@@ -20,7 +20,7 @@ Dưới đây là danh sách thành viên tham gia dự án và vai trò đảm 
 
 Dự án được chia thành các phân hệ mã nguồn độc lập. Vui lòng truy cập theo các đường dẫn dưới đây để xem chi tiết mã nguồn của từng bộ phận:
 
-*   🌐 **Phân hệ Frontend:** [Xem Thư Mục Frontend](./frontend)
+*   🌐 **Phân hệ Frontend:** [Xem Thư Mục Frontend](./Frontend)
 *   ⚙️ **Phân hệ Backend:** [Xem GitHub/GitLab Repository](https://github.comyour-organization/backend-repo)
 *   ☁️ **Cấu hình DevOps/Infrastructure:** [Xem GitHub/GitLab Repository](https://github.comyour-organization/devops-repo)
 *   🛡️ **Kịch bản Kiểm thử (QA/Testing):** [Xem GitHub/GitLab Repository](https://github.comyour-organization/qa-repo)
