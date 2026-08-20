@@ -20,10 +20,10 @@ Dưới đây là danh sách thành viên tham gia dự án và vai trò đảm 
 
 Dự án được chia thành các phân hệ mã nguồn độc lập. Vui lòng truy cập theo các đường dẫn dưới đây để xem chi tiết mã nguồn của từng bộ phận:
 
-*   🌐 **Phân hệ Frontend:** [Xem Thư Mục Backend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/blob/Frontend)
-*   ⚙️ **Phân hệ Backend:** [Xem Thư Mục Backend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Backend/src)
-*   ☁️ **Cấu hình DevOps/Infrastructure:** [Xem Thư Mục DevOps-Infrastructure](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Devops/docker)
-*   🛡️ **Kịch bản Kiểm thử QA/Testing:** [Xem Thư Mục QA-Testing](./QA-Testing)
+*   🌐 **Phân hệ Frontend:** [Frontend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Frontend/frontend)
+*   ⚙️ **Phân hệ Backend:** [Backend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Backend/src)
+*   ☁️ **Cấu hình DevOps/Infrastructure:** [DevOps-Infrastructure](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Devops/docker)
+*   🛡️ **Kịch bản Kiểm thử QA/Testing:** [QA-Testing](./QA-Testing)
 
 ---
 
