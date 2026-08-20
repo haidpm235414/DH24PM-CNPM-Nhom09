@@ -23,7 +23,7 @@ Dự án được chia thành các phân hệ mã nguồn độc lập. Vui lòn
 *   🌐 **Phân hệ Frontend:** [Frontend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Frontend/frontend)
 *   ⚙️ **Phân hệ Backend:** [Backend](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Backend/src)
 *   ☁️ **Cấu hình DevOps/Infrastructure:** [DevOps-Infrastructure](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/tree/Devops/docker)
-*   🛡️ **Kịch bản Kiểm thử QA/Testing:** [QA-Testing](./QA-Testing)
+*   🛡️ **Kịch bản Kiểm thử QA/Testing:** [QA-Testing](https://github.com/haidpm235414/DH24PM-CNPM-Nhom09/blob/QA/api-tests)
 
 ---
 
